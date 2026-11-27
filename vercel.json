@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/Ministry%20AI%20360%20%E2%80%94%20Preparing%20the%20Church%20for%20the%20New%20Age%20of%20AI.html"
+    }
+  ]
+}
